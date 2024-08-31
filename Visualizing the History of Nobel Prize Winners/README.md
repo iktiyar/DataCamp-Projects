@@ -1,1 +1,1 @@
-In this project "plotly.express" used for visualization. Github doesn't displaying those plots. Rather than "plotly" codes are shown.
+In this project "plotly.express" used for visualization. Github doesn't displaying those plots rather than "plotly" codes are shown.
